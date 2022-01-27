@@ -1,4 +1,4 @@
-CONFIG_LOCALVERSION="-deadlylxrd-project"
+CONFIG_LOCALVERSION="-olivelite-project"
 CONFIG_LOCALVERSION_AUTO=n
 # CONFIG_FHANDLE is not set
 CONFIG_AUDIT=y
